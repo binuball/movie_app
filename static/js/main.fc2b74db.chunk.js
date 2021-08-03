@@ -1,0 +1,2 @@
+(this.webpackJsonpmovie_app=this.webpackJsonpmovie_app||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);c(1);var n=c(3),p=c.n(n),s=c(0);var i=function(){return Object(s.jsxs)("div",{children:[Object(s.jsx)("h1",{children:"Hello"}),Object(s.jsx)("p",{children:"React App is good"})]})};p.a.render(Object(s.jsx)(i,{}),document.getElementById("potato"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.fc2b74db.chunk.js.map
